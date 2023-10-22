@@ -99,7 +99,7 @@ $error="Something went wrong. Please try again";
 
   <div id="navbar">
     <div>
-      <h1><a href="../index.php" style="color: white; text-decoration:none;">AYUSH</a></h1>
+      <h1><a href="../index.php" style="color: white; text-decoration:none;">Health Portal</a></h1>
       
       <p id="loginSignUpToggle">Login/SignUp</p>
     </div>
